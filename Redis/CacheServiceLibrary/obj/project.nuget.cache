@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6P3f8JV7BAnm8CM4rx84eGs6JoqZretmKlhmlwf/CZpLc4BI3+/+AN/+DJRlbIkBolOyl90dob4sLKyqFFRKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teymur.rahimli\\Desktop\\_\\Learnings\\Redis\\Redis\\CacheServiceLibrary\\CacheServiceLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teymur.rahimli\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\teymur.rahimli\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\teymur.rahimli\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\teymur.rahimli\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

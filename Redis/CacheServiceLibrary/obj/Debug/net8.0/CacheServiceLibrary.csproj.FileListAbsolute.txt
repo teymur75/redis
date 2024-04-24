@@ -1,0 +1,12 @@
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\bin\Debug\net8.0\CacheServiceLibrary.deps.json
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\bin\Debug\net8.0\CacheServiceLibrary.dll
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\bin\Debug\net8.0\CacheServiceLibrary.pdb
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\CacheServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\CacheServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\CacheServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\CacheServiceLibrary.AssemblyInfo.cs
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\CacheServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\CacheServiceLibrary.dll
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\refint\CacheServiceLibrary.dll
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\CacheServiceLibrary.pdb
+C:\Users\teymur.rahimli\Desktop\_\Learnings\Redis\Redis\CacheServiceLibrary\obj\Debug\net8.0\ref\CacheServiceLibrary.dll
